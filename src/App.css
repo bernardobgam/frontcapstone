@@ -13,14 +13,25 @@
   }
 }
 
-.App-header {
+.header {
   background-color: #282c34;
-  min-height: 100vh;
+  height: 60px;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+}
+
+.header li {
+  margin: 0 10px;
+}
+
+.header a {
   color: white;
 }
 
