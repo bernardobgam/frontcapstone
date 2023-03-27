@@ -1,0 +1,21 @@
+.header {
+  background-color: #282c34;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+}
+
+.header li {
+  margin: 0 10px;
+}
+
+.header a {
+  color: white;
+}

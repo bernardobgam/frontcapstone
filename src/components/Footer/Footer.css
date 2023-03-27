@@ -1,0 +1,23 @@
+footer {
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  padding: 16px;
+}
+
+footer img {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+
+footer div {
+  margin: 0 20px;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0px;
+}
